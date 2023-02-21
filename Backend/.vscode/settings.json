@@ -1,0 +1,12 @@
+{
+    "editor.fontFamily": "'JetBrains Mono'",
+    "editor.fontSize": 14,
+    "files.associations": {
+        "ostream": "cpp"
+    },
+    "workbench.colorCustomizations": {
+        "activityBar.background": "#46241A",
+        "titleBar.activeBackground": "#623324",
+        "titleBar.activeForeground": "#FCF9F8"
+    }
+}
